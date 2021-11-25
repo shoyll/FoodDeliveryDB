@@ -1,0 +1,5 @@
+PARTECIPAZIONE ALL'ASSOCIAZIONE:
+Il numero minimo e massimo cui un'istanza di ciascuna entità può PARTECIPARE all'associazione.
+
+*graficamente,per poter capire meglio, si possono disgnare i due insiemi(ENTITA'), e le associazioni(linee) tra i vari puntini 
+degli insiemi(istanze).

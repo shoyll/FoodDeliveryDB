@@ -1,0 +1,2 @@
+(0,N) partecipazione a delivery vincolo logico: ogni occorrenza di Ristorante deve partecipare 
+obbligatoriamente almeno ad una delle seguenti associazioni: Affidamento_I/E
